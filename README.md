@@ -25,3 +25,8 @@ Hehe, I have bad days recently, but I wanna go through all these stuff. It is ac
 
 Unfortunately, I know all these stuff before, so it was just refreshing my knowledge. Only I get it new with __pprint__ library, that was cool.
    
+### 21-24 days - Async and Quart - 24.07 22:50
+
+That was actually really great. I suppose it was quite interesting cause I do not have big experience with asyncio. And I have learned a bit about Quart.
+
+ 
