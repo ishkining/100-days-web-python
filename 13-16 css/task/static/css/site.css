@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+.python-image {
+    border-radius: 99vh;
+    height: 4vh;
+}
+
+.nav {
+    margin-top: 0;
+    background-color: black;
+    height: 5vh;
+    color: #0c5460;
+    list-style-type: none;
+    display: flex;
+    padding: 0 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav li {
+    display: inline-block;
+    padding: 10px;
+
+}
+
+#podcast {
+    flex: 4;
+    font-weight: bold;
+    font-size: 2vh;
+    color: white;
+}
+
+#podcast span {
+    color: yellow;
+}
+
+#wrapper {
+    flex: auto;
+    justify-content: right;
+    background: red;
+}
