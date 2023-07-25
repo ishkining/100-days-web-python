@@ -29,4 +29,7 @@ Unfortunately, I know all these stuff before, so it was just refreshing my knowl
 
 That was actually really great. I suppose it was quite interesting cause I do not have big experience with asyncio. And I have learned a bit about Quart.
 
- 
+### 25-28 days - JS - 25.07 20:03
+
+Oooooh, I have just watched a lot of stuff that I knew and so I feel like I have wasted time, but I really believe that I should do all these for tricking my mind to be precise.
+
