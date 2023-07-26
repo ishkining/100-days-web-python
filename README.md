@@ -33,3 +33,6 @@ That was actually really great. I suppose it was quite interesting cause I do no
 
 Oooooh, I have just watched a lot of stuff that I knew and so I feel like I have wasted time, but I really believe that I should do all these for tricking my mind to be precise.
 
+### 29-32 days - Static sites - 25.07 10:55
+
+It was really fun to learn pelican and netlify. Color me amazing.
