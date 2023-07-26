@@ -40,3 +40,7 @@ It was really fun to learn pelican and netlify. Color me amazing.
 ### 33-36 days - SQLAlchemy - 26.07 12:49
 
 SQLAlchemy is useful tool for creating different projects. I should try to learn a bit more about it.
+
+### 37-40 days - Pyramid - 26.07 20:49
+
+Unfortenately, I haven't learned a lot cause I have problems w/ installing cookiecutter so I have just watched lections.
