@@ -44,3 +44,9 @@ SQLAlchemy is useful tool for creating different projects. I should try to learn
 ### 37-40 days - Pyramid - 26.07 20:49
 
 Unfortenately, I haven't learned a lot cause I have problems w/ installing cookiecutter so I have just watched lections.
+
+### 41-44 days - React - 27.07 12:47
+
+It was magnificent, adorable and beautiful. I have already knew about React, but I really enjoyed of this tutorial.
+
+
