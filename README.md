@@ -52,3 +52,7 @@ It was magnificent, adorable and beautiful. I have already knew about React, but
 ### 45-48 days - Django - 28.07 11:12
 
 I already knew a lot of stuff about Django. And it was even version 2 and I was surprised that it was actually ike newer versions
+
+### 49 days - Silenium - 29.07 12:58
+
+It was enjoyable. I have a lot fun with seeing how interesting is using testing with Silenium.
