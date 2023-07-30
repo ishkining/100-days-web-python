@@ -53,6 +53,10 @@ It was magnificent, adorable and beautiful. I have already knew about React, but
 
 I already knew a lot of stuff about Django. And it was even version 2 and I was surprised that it was actually ike newer versions
 
-### 49 days - Silenium - 29.07 12:58
+### 49 day - Silenium - 29.07 12:58
 
 It was enjoyable. I have a lot fun with seeing how interesting is using testing with Silenium.
+
+### 50 day - Responder - 30.07 18:40
+
+I have learn a bit of some ASGI using responder.
