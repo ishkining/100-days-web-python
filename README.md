@@ -60,3 +60,10 @@ It was enjoyable. I have a lot fun with seeing how interesting is using testing 
 ### 50 day - Responder - 30.07 18:40
 
 I have learn a bit of some ASGI using responder.
+
+### 51 day - Twillio - 01.08 17:57
+
+Unfortunately, I can not use Twillio cause my county is exception.
+
+
+
