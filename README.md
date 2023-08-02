@@ -69,5 +69,9 @@ Unfortunately, I can not use Twilio cause my county is exception.
 
 Cool service, but it is not free, so I am not into it.
 
+### 53-56 days - Django auth - 02.08 11:02
+
+It was cool experience and I almost knew all these stuff, so it was just a training. I have done in smtp.gmail system instead of sendGrid cause my country is blocked
+
 
 
