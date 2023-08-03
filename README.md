@@ -73,5 +73,10 @@ Cool service, but it is not free, so I am not into it.
 
 It was cool experience and I almost knew all these stuff, so it was just a training. I have done in smtp.gmail system instead of sendGrid cause my country is blocked
 
+### 57-60 days - Flask auth - 03.08 18:17
+
+I just have watched whole season and it was quite entertaining
+
+
 
 
