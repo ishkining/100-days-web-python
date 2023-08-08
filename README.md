@@ -77,6 +77,10 @@ It was cool experience and I almost knew all these stuff, so it was just a train
 
 I just have watched whole season and it was quite entertaining
 
+### 61-64 days - Alembic - 08.08 15:39
+
+I have just watched the lessons about how to use Alembic to solve db migration's issues.
+
 
 
 
