@@ -81,6 +81,8 @@ I just have watched whole season and it was quite entertaining
 
 I have just watched the lessons about how to use Alembic to solve db migration's issues.
 
+### 65-68 days - Heroku - 08.08 17:53
 
+Unfortunately, I can not login into Heroku(might be for sanctions) and sendgrid, but I know all about this sort of things.
 
 
