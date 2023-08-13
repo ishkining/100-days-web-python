@@ -85,4 +85,8 @@ I have just watched the lessons about how to use Alembic to solve db migration's
 
 Unfortunately, I can not login into Heroku(might be for sanctions) and sendgrid, but I know all about this sort of things.
 
+### 69-72 days - DRF - 13.08 15:08
+
+This was fun, however I know a lot about it, so it was not so hard
+
 
