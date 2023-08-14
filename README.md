@@ -92,3 +92,11 @@ This was fun, however I know a lot about it, so it was not so hard
 ### 73-76 days - Web scraping - 14.08 15:21
 
 That was so easy cause web scraping is my thing.
+
+### 77-80 days - bots - 14.08 17:49
+
+Cool stuff about bots, could not use twitter and urls dont work the same manner so i just keep watching
+
+
+
+
