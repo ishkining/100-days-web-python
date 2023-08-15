@@ -97,6 +97,10 @@ That was so easy cause web scraping is my thing.
 
 Cool stuff about bots, could not use twitter and urls dont work the same manner so i just keep watching
 
+### 81-84 days - units - 15.08 11:59
+
+I just watched videos and i suppose i do not get everything cause i have little experience in pyramid and unittest
+
 
 
 
