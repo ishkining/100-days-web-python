@@ -101,6 +101,9 @@ Cool stuff about bots, could not use twitter and urls dont work the same manner 
 
 I just watched videos and i suppose i do not get everything cause i have little experience in pyramid and unittest
 
+### 85-88 days - AWS - 15.08 12:48
+
+Unfortunately, i could not use AWS here, so i have one option to see serverless architecture.
 
 
 
